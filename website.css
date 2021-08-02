@@ -52,3 +52,13 @@ body {
     background-color: 84142D;
     color: F1EBBB;
 }
+@media (max-width :900px) {
+    .top-h1 {
+        font-size: 1rem;
+        text-align: center;
+    }
+    .top-h11 {
+        font-size: 1rem;
+        text-align: center;
+    }
+}
