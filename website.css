@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    /* background-color: 2D132C; */
+}
+
+.top {
+    background-color: C72C41;
+    color: F1EBBB;
+}
+
+.top-h1 {
+    padding: 10 0 10 20;
+    font-size: 3rem;
+}
+
+.navbar {
+    position: absolute;
+    color: F1EBBB;
+}
+
+.color-nav {
+    color: F1EBBB;
+}
+
+.home-middle-h1 {
+    font-size: 5rem;
+    background-color: 84142D;
+    color: F1EBBB;
+    margin: 0;
+    padding: 13% 0 0 47%;
+    font-family: 'Amatic SC', cursive;
+}
+
+.home-middle-h11 {
+    font-size: 5rem;
+    background-color: 84142D;
+    color: F1EBBB;
+    margin: 0;
+    padding: 0px 0 13% 40%;
+    font-family: 'Amatic SC', cursive;
+}
+
+.cloud {
+    position: absolute;
+    padding-left: 46%;
+    padding-top: 5%;
+}
+
+.home-bottom {
+    padding: 2%;
+    padding-left: 48%;
+    background-color: 84142D;
+    color: F1EBBB;
+}
